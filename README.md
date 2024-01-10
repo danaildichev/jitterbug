@@ -100,7 +100,7 @@ Buy counts will rise by an amount that is bound to a high and low value. The jit
 
 Optionally, a `JitterBug` instance can be created with custom settings. For example you could pass in this JSON:
 
-```json
+```javascript
 let bounds =
 {
 	"buys":
