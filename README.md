@@ -123,7 +123,7 @@ let bounds =
 
 <summary>See the comments for that JSON</summary>
 
-```json
+```javascript
 /*
 * OPTIONS
 *
