@@ -63,26 +63,21 @@ Set up your javascript:
 ```javascript
 <script>
 
-// -------------------------------------------------
 // get the HTML elements that show the Jitter counts
 let jitterElements =
 {
-"buys": document.getElementsByClassName('jitter-buy-count'),
-"views": document.getElementsByClassName('jitter-page-view')
+    "buys": document.getElementsByClassName('jitter-buy-count'),
+    "views": document.getElementsByClassName('jitter-page-view')
 };
 
-
-// ----------------------------------------
 // create a JitterBug with default settings
 let JB = new JitterBug(jitterElements.buys, jitterElements.views, false, false);
 
-
-// ----------------------------
 // when the document has loaded
 document.addEventListener("DOMContentLoaded", () => {
 
-// do the JitterBug
-JB.dance();
+    // do the JitterBug
+    JB.dance();
 
 });
 	
