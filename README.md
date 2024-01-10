@@ -23,7 +23,7 @@ The best part about Jitter Bug is that these updates look and feel organic. Its 
 - [Live Demo](#live-demo)
 - [Install](#install)
 - [Usage](#usage)
-	- [What `JitterBug` will do](#what-jitterbug-will-do)
+	- [What JitterBug will do](#what-jitterbug-will-do)
 - [API](#api)
 - [Issues](#issues)
 - [Contributing](#contributing)
