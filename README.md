@@ -189,9 +189,8 @@ The "buys" will start at a number between 150 and 200. Each "buy" has an interva
 Then with your customized options you can create an instance of `JitterBug` with
 
 ```javascript
-// ------------------------------------------------
 // create a JitterBug with custom boundary settings
-// let JB = new JitterBug(jitterElements.buys, jitterElements.views, bounds.buys, bounds.views);
+let JB = new JitterBug(jitterElements.buys, jitterElements.views, bounds.buys, bounds.views);
 ```
 
 
