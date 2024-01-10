@@ -182,6 +182,10 @@ let bounds =
 // **************************
 ```
 
+</details>
+
+The "buys" will start at a number between 150 and 200. Each "buy" has an interval between 1 and 3 seconds. Upon each interval the "buy" count will increase between 4 and 16. The "views" will start at a number between 100 and 150. All "views" have an interval between 1 and 3 seconds. Upon each interval the "view" count will change by an amount between 0 and 10.
+
 Then with your customized options you can create an instance of `JitterBug` with
 
 ```javascript
@@ -190,7 +194,6 @@ Then with your customized options you can create an instance of `JitterBug` with
 // let JB = new JitterBug(jitterElements.buys, jitterElements.views, bounds.buys, bounds.views);
 ```
 
-</details>
 
 ## API
 
