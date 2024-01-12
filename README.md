@@ -35,7 +35,7 @@ The best part about Jitter Bug is that these updates look and feel organic. Its 
 ## Install
 
 1. Clone the `JS` or the `jQuery` folder from this repo
-2. Instantiate an instance of the `JitterBug` JS class
+2. Create an instance of the `JitterBug` JS class
 
 See the demo file, `index.html` or refer to the [Usage](#usage) section for more details
 
